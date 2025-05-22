@@ -1,6 +1,7 @@
 // Write your code here!
 //1. Fetch data from an API
 //Fetch Data with.then
+//fetch('https://jsonplaceholder.typicode.com/posts')
 // displayPosts();
 //       .then(response => response.json())
 //       .then(json => console.log(json))
